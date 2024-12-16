@@ -22,15 +22,16 @@ NetBeans IDE (Optional for modifications)
 Image Files: Input images in .png or .bmp format
 
 
-**Sample Images** - 1. Home page
+**Sample Images**
+**1. Home page image**
 
 ![image](https://github.com/user-attachments/assets/d652483c-db4a-47f8-97c5-2d2a5022fc98)
 ![image](https://github.com/user-attachments/assets/673b9ff0-0a7e-42c3-93d7-a22fd1227e26)
 
-2. Encryption page image
-   ![image](https://github.com/user-attachments/assets/cc3fb9d5-e3b0-4a0f-a4e0-9a6d04d7c0f3)
+**2. Encryption page image**
 
-3. Decryption page Image
-   ![image](https://github.com/user-attachments/assets/af92b840-b8f6-49bb-ba09-c4f41d582fc3)
+![image](https://github.com/user-attachments/assets/cc3fb9d5-e3b0-4a0f-a4e0-9a6d04d7c0f3)
 
+**3. Decryption page Image**
 
+![image](https://github.com/user-attachments/assets/af92b840-b8f6-49bb-ba09-c4f41d582fc3)
