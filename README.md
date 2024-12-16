@@ -1,4 +1,4 @@
-#Image Stegnography
+# Image Stegnography
 
 **Project Overview** 
 
