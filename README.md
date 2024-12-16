@@ -1,3 +1,5 @@
+#Image Stegnography
+
 **Project Overview** 
 
 This project implements Image Steganography using the Java programming language. The application allows users to hide secret messages inside an image, which can later be extracted without degrading the quality of the original image. The graphical user interface (GUI) was developed using NetBeans IDE for an intuitive user experience.
